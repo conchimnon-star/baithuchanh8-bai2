@@ -1,0 +1,7 @@
+<?php
+return [
+    // Sao chép file này thành config.local.php và điền Gmail của bạn.
+    'smtp_username' => 'dia-chi-gmail-cua-ban@gmail.com',
+    'smtp_password' => 'MAT_KHAU_UNG_DUNG_16_KY_TU',
+    'from_email' => 'dia-chi-gmail-cua-ban@gmail.com',
+];

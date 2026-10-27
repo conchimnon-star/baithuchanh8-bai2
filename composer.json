@@ -1,0 +1,13 @@
+{
+    "name": "lab8/bai2-gui-email-form",
+    "description": "Lab 8 - Gui email qua form bang Gmail SMTP va PHPMailer",
+    "type": "project",
+    "require": {
+        "php": "^8.0",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "config": {
+        "vendor-dir": "PHPMailer",
+        "sort-packages": true
+    }
+}
